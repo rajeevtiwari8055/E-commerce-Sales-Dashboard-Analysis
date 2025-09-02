@@ -5,7 +5,22 @@ This project combines data exploration, cleaning, visualization, and insight gen
 
 ---
 
-## 📌 Business Problem
+## 📑 Table of Contents
+
+- <a href="#business-problem">📌 Business Problem</a>  
+- <a href="#key-insights-derived">🔍 Key Insights Derived</a>  
+- <a href="#solutions-proposed">✅ Solutions Proposed</a>  
+- <a href="#project-highlights">📊 Project Highlights</a>  
+- <a href="#key-takeaway">🔑 Key Takeaway</a>  
+- <a href="#tools-used">💻 Tools Used</a>  
+- <a href="#skills-demonstrated">🌟 Skills Demonstrated</a>  
+- <a href="#project-info">📁 Project Info</a>    
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#project-snapshot">🖼️ Project Snapshot</a>  
+
+---
+
+## <span id="business-problem">📌 Business Problem</span>  
 
 Modern E-commerce companies handle massive amounts of sales data every single day. This data includes thousands of transactions, covering multiple product categories, regions, cities, payment methods, customer segments, companies, pricing structures, and inventory details.
 
@@ -22,7 +37,7 @@ This project was designed to solve these challenges by giving decision-makers a 
 
 ---
 
-## 🔍 Key Insights Derived
+## <span id="key-insights-derived">🔍 Key Insights Derived</span> 
 
 Through detailed data cleaning, transformation, and visualization, the project delivered 10+ valuable business insights:
 
@@ -50,7 +65,7 @@ All these insights help businesses answer the real questions: Where is money com
 
 ---
 
-## ✅ Solutions Proposed
+## <span id="solutions-proposed">✅ Solutions Proposed</span> 
 
 Each insight directly leads to an actionable business move. Here’s how this dashboard & Excel model supports clear decision-making:
 
@@ -77,7 +92,7 @@ Direct digital ads and fast delivery services to top-performing cities to mainta
 
 ---
 
-## 📊 Project Highlights
+## <span id="project-highlights">📊 Project Highlights</span>
 
 • **Interactive Dashboard:** Clean, responsive visuals that allow drill-down by category, region, product, payment type, or customer group.  
 
@@ -89,20 +104,20 @@ Direct digital ads and fast delivery services to top-performing cities to mainta
 
 ---
 
-## 🔑 Key Takeaway
+## <span id="key-takeaway">🔑 Key Takeaway</span>
 
 This project proves that a well-designed E-commerce dashboard + Excel model does far more than show numbers. It turns complex data into clear actions, helping businesses grow sustainably and make informed decisions faster.  
 The approach can be scaled or customized for any E-commerce marketplace — from startups to large multi-brand platforms.
 
 ---
 
-## 💻 Tools Used
+## <span id="tools-used">💻 Tools Used</span>
 
 ✔️ **Excel:** Data cleaning, advanced formulas, pivot reports, scenario tools, Data visualization
 
 ---
 
-## 🌟 Skills Demonstrated
+## <span id="skills-demonstrated">🌟 Skills Demonstrated</span>
 
 • Business Analysis  
 • Data Cleaning & Transformation  
@@ -114,7 +129,7 @@ The approach can be scaled or customized for any E-commerce marketplace — from
 
 ---
 
-## 📁 Project Info
+## <span id="project-info">📁 Project Info</span>
 
 **Type:** E-commerce Sales Dashboard | Business Intelligence | Excel Reporting  
 **Status:** Completed  
@@ -124,7 +139,18 @@ The approach can be scaled or customized for any E-commerce marketplace — from
 
 --- 
 
-## 🖼️ Project Snapshot
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-snapshot">🖼️ Project Snapshot</span>
 
 ## Final Dashboard
 ![E-commerce Sales Dashboard Analysis PNG](E-commerce%20Sales%20Dashboard%20Analysis.png)
